@@ -8,4 +8,4 @@ consumer_secret = "[Xhxgez2I6CNildApP1f0uWkb0GOHZEXMpXriQqQ7aon3V8oZGO]"
 access_key = "[238097127-nqF8l4kJPg4VA4C2ANrp0rbmZKlyW3YqQa5Q4Nk0]"
 access_secret = "[FOBOIMJ3Fv6TKZPdsqCT2y4DYiTQDqpEmrQs0ukl1NDwg]"
 
-$ python get_tweets.py [suresh hp1]
+$ python get_tweets.py [sureshhp1]
