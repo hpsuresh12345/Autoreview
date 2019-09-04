@@ -1,4 +1,4 @@
-$ git clone https://github.com/gitlaura/get_tweets.git
+$ git clone https://github.com/hpsuresh12345/Autoreview/tweepy.git
 $ cd get_tweets
 $ sudo pip install tweepy
 
